@@ -4,7 +4,6 @@
 #include <math.h>
 #define EPSILON 1e-6
 
-//348 lines executed when running GCC -fprofile-arcs (97.7% coverage)
 
 typedef struct simplex_t 
 {
